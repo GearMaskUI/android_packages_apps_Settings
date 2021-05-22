@@ -21,6 +21,12 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
+      <!-- GearMask logo -->
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="gmui_logo"
+        android:layout="@layout/gmui_logo"
+        android:selectable="false"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
