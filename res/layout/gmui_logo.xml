@@ -19,7 +19,7 @@
  <ImageView
         android:layout_width="200dp"
         android:layout_height="112dp"
-        android:src="@drawable/ic_gmui_logo"
+        android:src="@drawable/gmui_logo"
         android:adjustViewBounds="true"
         android:scaleType="centerInside"
         android:layout_marginTop="20dp"
